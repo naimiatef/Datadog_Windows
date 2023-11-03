@@ -17,6 +17,14 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
 </ul>
  
 #### b.Installez l'Agent Datadog :
+<ul>
+  <li>Exécutez le programme d'installation en tant qu'administrateur.</li>
+  <li>Suivez les invites d'installation.</li>
+  <li>Lors de l'installation, il vous sera demandé votre clé API Datadog. Vous pouvez trouver cette clé dans votre tableau de bord Datadog sous Intégrations > API .</li>
+</ul>
+
+
+
 #### c.Démarrez l'Agent Datadog :
 ### 2.(Facultatif) Configurer l'agent pour collecter les métriques système
 ### 3. Afficher le tableau de bord Datadog
