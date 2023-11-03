@@ -22,7 +22,8 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
   <li>Suivez les invites d'installation.</li>
   <li>Lors de l'installation, il vous sera demandé votre clé API Datadog. Vous pouvez trouver cette clé dans votre tableau de bord Datadog sous Intégrations > API .</li>
 </ul>
-
+<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/1.png" width=200 height=200 > <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/2.png" width=200 height=200 >
+<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/3.png" width=200 height=200 > <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/4.png" width=200 height=200 >
 
 
 #### c.Démarrez l'Agent Datadog :
