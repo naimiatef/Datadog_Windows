@@ -9,6 +9,9 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
 
 ### 1. Installez l'agent Datadog sur Windows
 #### a.Téléchargez le programme d'installation :
+Connectez-vous à votre compte Datadog.
+Accédez à Agent > Windows .
+Téléchargez le programme d’installation de Datadog Agent approprié en fonction de votre version de Windows.
 #### b.Installez l'Agent Datadog :
 #### c.Démarrez l'Agent Datadog :
 ### 2.(Facultatif) Configurer l'agent pour collecter les métriques système
