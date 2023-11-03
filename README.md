@@ -58,7 +58,7 @@ Par défaut, l’agent Datadog collectera les métriques de base du système tel
     . Ajoutez des widgets et sélectionnez les métriques ou les événements qui vous intéressent.
     . Personnalisez la visualisation, la période et la mise en page comme vous le souhaitez.
     . Enregistrez le tableau de bord pour référence future.
-<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/6.png" width=600 height=250 >
+<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/6.png" width=600 height=515 >
 
 
 ### 4.(Facultatif) Explorer et définir des alertes
