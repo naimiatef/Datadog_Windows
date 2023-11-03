@@ -70,17 +70,19 @@ Vous avez installé avec succès l'agent Datadog sur votre machine Windows et vo
 Exécutez quelques commandes sur la machine Windows et affichez les modifications dans le tableau de bord.
 ### Ouvrez PowerShell en tant qu'administrateur et exécutez ce qui suit :
 ### a. Cela ajoutera une certaine charge au processeur.
+
 ```bash
-$loop = [scriptblock]::Create("while ($true) {}")
-Start-Job -ScriptBlock $loop
+    $loop = [scriptblock]::Create("while ($true) {}")
+    Start-Job -ScriptBlock $loop
 ```
  <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/8.png" width=350 height=350 >
 ### b. Cela ajoutera une certaine charge à la mémoire.
+
 ```bash
-$memArray = @()
-while ($true) {
+   $memArray = @()
+   while ($true) {
     $memArray += new-object byte[] 10MB
     Start-Sleep -Seconds 2
-}
+   }
 ```
 <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/9.png" width=350 height=350 >
