@@ -36,8 +36,8 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
 </table>
 
 #### c.Démarrez l'Agent Datadog :
-Après l'installation, l'Agent Datadog commencera à s'exécuter en tant que service sur votre machine Windows. Vous pouvez gérer le service Datadog Agent via l' Servicesapplication sous Windows.
-<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/5.png" width=350 height=350 >
+Après l'installation, l'Agent Datadog commencera à s'exécuter en tant que service sur votre machine Windows. Vous pouvez gérer le service Datadog Agent via l' Servicesapplication sous Windows. <br>
+<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/5.png" width=500 height=350 >
 
 ### 2.(Facultatif) Configurer l'agent pour collecter les métriques système
 Par défaut, l’agent Datadog collectera les métriques de base du système telles que l’utilisation du processeur, la mémoire et les E/S disque. Cependant, si vous souhaitez collecter des métriques supplémentaires :
