@@ -2,9 +2,9 @@
 <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/datadog.png" width=200 height=200 >    <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/windows.png" width=200 height=200 > <br> <br>
 Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur une machine Windows, puis affichera les métriques collectées sur un tableau de bord Datadog.
 ## Conditions préalables
-1. Un compte Datadog actif. Si vous n'en avez pas, inscrivez-vous ici .
+1. Un compte Datadog actif. Si vous n'en avez pas, inscrivez-vous <a href="[https://openclassrooms.com/fr/](https://www.datadoghq.com/)">ici</a> .
 2. Une machine Windows (Serveur ou Poste de travail).
-3. 
+
 ## Guide étape par étape
 
 ### 1. Installez l'agent Datadog sur Windows
