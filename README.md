@@ -35,10 +35,6 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
   </tr>
 </table>
 
- 
-
-
-
 #### c.Démarrez l'Agent Datadog :
 ### 2.(Facultatif) Configurer l'agent pour collecter les métriques système
 ### 3. Afficher le tableau de bord Datadog
@@ -47,7 +43,7 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
   #### c. (Facultatif) Personnaliser un tableau de bord :
 ### 4. (Facultatif) Explorer et définir des alertes
 
-## Emballer
+## Constatation
 ### 5. (Facultatif) Test de charge
 ### Ouvrez PowerShell en tant qu'administrateur et exécutez ce qui suit :
 ### a. Cela ajoutera une certaine charge au processeur.
