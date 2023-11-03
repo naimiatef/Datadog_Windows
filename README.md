@@ -78,7 +78,7 @@ Exécutez quelques commandes sur la machine Windows et affichez les modification
     $loop = [scriptblock]::Create("while ($true) {}")
     Start-Job -ScriptBlock $loop
 ```
- <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/8.png" width=350 height=350 >
+ <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/8.png" width=800 height=257 >
  
 ### b. Cela ajoutera une certaine charge à la mémoire.
 
