@@ -89,4 +89,4 @@ Exécutez quelques commandes sur la machine Windows et affichez les modification
     Start-Sleep -Seconds 2
    }
 ```
-<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/9.png" width=350 height=350 >
+<img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/9.png" width=800 height=250 >
