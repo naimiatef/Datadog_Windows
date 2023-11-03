@@ -36,6 +36,8 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
 </table>
 
 #### c.Démarrez l'Agent Datadog :
+Après l'installation, l'Agent Datadog commencera à s'exécuter en tant que service sur votre machine Windows. Vous pouvez gérer le service Datadog Agent via l' Servicesapplication sous Windows.
+
 ### 2.(Facultatif) Configurer l'agent pour collecter les métriques système
 ### 3. Afficher le tableau de bord Datadog
   #### a. Accédez au tableau de bord Datadog :
