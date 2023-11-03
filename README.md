@@ -64,7 +64,7 @@ Par défaut, l’agent Datadog collectera les métriques de base du système tel
 2. Définissez vos critères d'alerte, votre message et l'endroit où vous souhaitez être averti (par exemple, e-mail, Slack, etc.).
 3. Enregistrez l'alerte et Datadog vous avertira lorsque les critères spécifiés seront remplis.
    <img src="https://github.com/naimiatef/Datadog_Windows/blob/main/datadog/7.png" width=350 height=350 >
-## Constatation
+##Constatation
 Vous avez installé avec succès l'agent Datadog sur votre machine Windows et vous pouvez désormais surveiller et visualiser les performances de votre système via le tableau de bord Datadog.
 ### 5. (Facultatif) Test de charge
 Exécutez quelques commandes sur la machine Windows et affichez les modifications dans le tableau de bord.
