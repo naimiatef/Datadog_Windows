@@ -11,9 +11,9 @@ Ce guide vous guidera à travers les étapes pour exécuter l'agent Datadog sur 
 #### c.Démarrez l'Agent Datadog :
 ### 2.(Facultatif) Configurer l'agent pour collecter les métriques système
 ### 3. Afficher le tableau de bord Datadog
-  ### a. Accédez au tableau de bord Datadog :
-  ### b. Choisissez un tableau de bord préconfiguré :
-  ### c. (Facultatif) Personnaliser un tableau de bord :
+  #### a. Accédez au tableau de bord Datadog :
+  #### b. Choisissez un tableau de bord préconfiguré :
+  #### c. (Facultatif) Personnaliser un tableau de bord :
 ### 4. (Facultatif) Explorer et définir des alertes
 
 ## Emballer
